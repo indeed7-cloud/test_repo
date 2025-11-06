@@ -1,1 +1,5 @@
 my fine text
+
+add some more text
+
+undefined is not a function
